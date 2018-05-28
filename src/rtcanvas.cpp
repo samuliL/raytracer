@@ -1,7 +1,3 @@
-/*
- * classes.cpp - contains the implementations of RTCamera and RTCanvas
- */
-
 #include <iostream>
 #include <cmath>
 #include <fstream>
